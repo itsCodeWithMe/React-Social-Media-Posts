@@ -1,0 +1,8 @@
+.sectionArea {
+  display: flex;
+  min-height: 800px;
+}
+
+.contentContainer {
+  width: 100%;
+}
